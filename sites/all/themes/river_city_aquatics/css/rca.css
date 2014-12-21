@@ -1,0 +1,151 @@
+/* line 2, ../scss/rca.scss */
+h4, .page-user .pane-views-gallery-block-1 h2.pane-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* line 9, ../scss/rca.scss */
+.view-gallery h3 {
+  text-align: left;
+  margin-bottom: 0;
+}
+/* line 14, ../scss/rca.scss */
+.view-gallery .views-row {
+  display: inline-block;
+  padding: 10px 15px 40px 15px;
+}
+/* line 18, ../scss/rca.scss */
+.view-gallery .views-field-title {
+  text-align: center;
+}
+
+/* line 25, ../scss/rca.scss */
+.page-user .view-gallery .views-row {
+  display: inline-block;
+  padding: 10px 5px 40px;
+}
+
+/* line 34, ../scss/rca.scss */
+.block-views-users-crew-block h2.block-title {
+  border-bottom: 1px solid #e8e8e8;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+/* line 41, ../scss/rca.scss */
+.view-users-crew .views-row {
+  margin-bottom: 40px;
+}
+/* line 44, ../scss/rca.scss */
+.view-users-crew .field-name-field-headshot {
+  float: left;
+  padding: 20px;
+}
+/* line 48, ../scss/rca.scss */
+.view-users-crew .views-field-name {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+/* line 52, ../scss/rca.scss */
+.view-users-crew .field-name-field-bio p {
+  margin-bottom: 7px;
+}
+
+/* User Panel */
+/* line 60, ../scss/rca.scss */
+.page-user .container-24 .grid-18 {
+  width: 655px;
+  padding-right: 20px;
+  border-right: 1px solid #ccc;
+}
+/* line 66, ../scss/rca.scss */
+.page-user .container-24 .grid-6 h2.pane-title {
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 20px;
+}
+/* line 71, ../scss/rca.scss */
+.page-user .container-24 .grid-6 a.views-more-link {
+  display: block;
+  text-align: right;
+  font-size: 12px;
+}
+/* line 78, ../scss/rca.scss */
+.page-user .pane-user-field-headshot {
+  float: left;
+  padding: 20px;
+}
+/* line 83, ../scss/rca.scss */
+.page-user .pane-views-gallery-block-1 h2.pane-title {
+  width: 90%;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+/* Coral Categories */
+/* line 95, ../scss/rca.scss */
+.page-taxonomy-term.page-taxonomy-term-91 .pane-views-livestock-collections-block-1 {
+  text-align: center;
+}
+/* line 97, ../scss/rca.scss */
+.page-taxonomy-term.page-taxonomy-term-91 .pane-views-livestock-collections-block-1 .views-row {
+  display: inline-block;
+  padding: 0 10px 10px 10px;
+  margin: 10px;
+  border: 1px solid #d7d7d7;
+  border-radius: 4px;
+}
+/* line 103, ../scss/rca.scss */
+.page-taxonomy-term.page-taxonomy-term-91 .pane-views-livestock-collections-block-1 .views-row .views-field-name a {
+  display: block;
+  font-size: 18px;
+  padding-bottom: 4px;
+  margin: 10px 0 0 0;
+  background-color: #eeeeee;
+  border: 1px solid #d7d7d7;
+}
+
+/* Prod Listing */
+/* line 118, ../scss/rca.scss */
+.view-livestock-product-displays .views-row, .view-livestock-product-displays-cichlids .views-row {
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #d7d7d7;
+  border-radius: 4px;
+}
+/* line 124, ../scss/rca.scss */
+.view-livestock-product-displays .views-row h2, .view-livestock-product-displays-cichlids .views-row h2 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+/* line 128, ../scss/rca.scss */
+.view-livestock-product-displays .views-row .field-name-commerce-price, .view-livestock-product-displays-cichlids .views-row .field-name-commerce-price {
+  font-size: 18px;
+  margin: 0;
+}
+
+/* PANELS */
+/* line 136, ../scss/rca.scss */
+.panel-panel .inside {
+  padding: 0 20px;
+}
+
+/* Commerce OVerrides */
+/* line 142, ../scss/rca.scss */
+body.toolbar #toolbar-home a span {
+  background: url("../library/images/rcalogo_small.png") no-repeat scroll 0 0 transparent;
+  display: block;
+  margin: 0;
+  min-height: 40px;
+  text-indent: -9999px;
+  width: 130px;
+}
+
+/* homepage Slidshow */
+/* line 154, ../scss/rca.scss */
+.front #block-views-demo-content-slideshow-block-1 .views-field-nothing span.field-content em,
+.front #block-views-demo-content-slideshow-block-1 .bx-prev span.field-content em,
+.front #block-views-demo-content-slideshow-block-1 .bx-next span.field-content em {
+  font-size: 28px !important;
+}
