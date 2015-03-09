@@ -877,7 +877,7 @@ select {
   /* LTR */
   margin: 0 1.5%;
   padding: 0;
-  width: 30%; }
+  width: 100%; }
 
 #zone-postscript {
   margin-top: 20px;
