@@ -118,21 +118,23 @@ h4, .page-user .pane-views-gallery-block-1 h2.pane-title {
 .view-livestock-product-displays .views-row h2, .view-livestock-product-displays-cichlids .views-row h2 {
   font-size: 18px;
   margin-bottom: 8px;
+  max-width: 250px;
+  min-height: 60px;
 }
-/* line 128, ../scss/rca.scss */
+/* line 130, ../scss/rca.scss */
 .view-livestock-product-displays .views-row .field-name-commerce-price, .view-livestock-product-displays-cichlids .views-row .field-name-commerce-price {
   font-size: 18px;
   margin: 0;
 }
 
 /* PANELS */
-/* line 136, ../scss/rca.scss */
+/* line 138, ../scss/rca.scss */
 .panel-panel .inside {
   padding: 0 20px;
 }
 
 /* Commerce OVerrides */
-/* line 142, ../scss/rca.scss */
+/* line 144, ../scss/rca.scss */
 body.toolbar #toolbar-home a span {
   background: url("../library/images/rcalogo_small.png") no-repeat scroll 0 0 transparent;
   display: block;
@@ -143,7 +145,7 @@ body.toolbar #toolbar-home a span {
 }
 
 /* homepage Slidshow */
-/* line 154, ../scss/rca.scss */
+/* line 156, ../scss/rca.scss */
 .front #block-views-demo-content-slideshow-block-1 .views-field-nothing span.field-content em,
 .front #block-views-demo-content-slideshow-block-1 .bx-prev span.field-content em,
 .front #block-views-demo-content-slideshow-block-1 .bx-next span.field-content em {
