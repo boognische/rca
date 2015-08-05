@@ -1,0 +1,13 @@
+diff --git a/modules/commerce_kickstart/commerce_kickstart_search/commerce_kickstart_search.js b/modules/commerce_kickstart/commerce_kickstart_search/commerce_kickstart_search.js
+index 50205c9..f31a569 100644
+--- a/modules/commerce_kickstart/commerce_kickstart_search/commerce_kickstart_search.js
++++ b/modules/commerce_kickstart/commerce_kickstart_search/commerce_kickstart_search.js
+@@ -4,7 +4,7 @@
+   // multi-clic
+   Drupal.behaviors.kickstartSearch = {
+     attach:function (context) {
+-      $('.facetapi-checkbox').live('click', function(e) {
++      $('.facetapi-checkbox').bind('click', function(e) {
+         $('.facetapi-checkbox').attr("disabled", true);
+       });
+     }
